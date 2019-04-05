@@ -1,0 +1,7 @@
+[submodule "saturday"]
+    path = saturday
+    url = git@github.com:zzdumeng/saturday.git
+[submodule "darkday"]
+    path = darkday
+    url = git@github.com:fourtyzero/darkday.git
+
